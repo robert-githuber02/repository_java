@@ -1,0 +1,6 @@
+oop=programare orientata pe obiecte
+presupunem lucrul cu clase,obiecte,atribute si metode.vom utiliza obiecte pentru a apela diverse metode sau campuri ale acestora.
+vom utiliza clasele si obiectele ca si elemente reprezentative.
+obiectele reprezinta instante ale clasei iar clasa reprezinta un sablon de crearea a obiecte
+tipul obiectului este definit de numele clasei care il creaza.
+numele obiectelor sunt unice.sunt create in metoda main.

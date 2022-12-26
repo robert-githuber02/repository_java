@@ -1,0 +1,5 @@
+Tema
+Se citește de la tastatură un șir de caractere, care poate conține spații. Afișează numărul de apariții ale fiecărui caracter din String. Precizări:
+ordinea afișării literelor este arbitrară.
+fiecare literă (împreună cu numărul de apariții) va fi afișată o singură dată.
+formatul concret de afișare este la alegerea ta.
